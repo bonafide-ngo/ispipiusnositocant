@@ -1,0 +1,97 @@
+/* 
+ * Bootstrap Round Corners 
+ */
+
+.rounded-8 {
+    border-radius: 0.8rem !important;
+}
+
+.rounded-top-8 {
+    border-top-left-radius: 0.8rem !important;
+    border-top-right-radius: 0.8rem !important;
+}
+
+.rounded-bottom-8 {
+    border-bottom-left-radius: 0.8rem !important;
+    border-bottom-right-radius: 0.8rem !important;
+}
+
+.rounded-start-8 {
+    border-top-left-radius: 0.8rem !important;
+    border-bottom-left-radius: 0.8rem !important;
+}
+
+.rounded-end-8 {
+    border-top-right-radius: 0.8rem !important;
+    border-bottom-right-radius: 0.8rem !important;
+}
+
+/* 
+ * Bootstrap Progress 
+ */
+
+.progress {
+    background-color: transparent;
+}
+
+/* 
+ * Bootstrap Form 
+ */
+
+.form-control {
+    border-width: 2px;
+}
+
+/* 
+ * Bootstrap Accordion 
+ */
+
+.accordion-button {
+    background-color: var(--bs-light);
+    font-weight: bold;
+}
+
+/* 
+ * Bootstrap Popover 
+ */
+
+.popover {
+    background-color: transparent;
+    border: none;
+    font-size: 1rem;
+}
+
+.bs-popover-top>.popover-arrow::after, .bs-popover-auto[data-popper-placement^="top"]>.popover-arrow::after {
+    border-top-color: var(--bs-info);
+}
+
+.bs-popover-end>.popover-arrow::after, .bs-popover-auto[data-popper-placement^="right"]>.popover-arrow::after {
+    border-right-color: var(--bs-info);
+}
+
+.bs-popover-bottom>.popover-arrow::after, .bs-popover-auto[data-popper-placement^="bottom"]>.popover-arrow::after {
+    border-bottom-color: var(--bs-info);
+}
+
+.bs-popover-start>.popover-arrow::after, .bs-popover-auto[data-popper-placement^="left"]>.popover-arrow::after {
+    border-left-color: var(--bs-info);
+}
+
+.popover-header, .popover-body {
+    background-color: var(--bs-info);
+    border-radius: 0.8rem !important;
+}
+
+/* 
+ * Bootstrap Accordion no-border 
+ */ 
+ .accordion-item {
+    border: none;
+ }
+
+ /* 
+  * Bootstrap Link no-decoration 
+  */ 
+  a {
+     text-decoration: none;
+  }
