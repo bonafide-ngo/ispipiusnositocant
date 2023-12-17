@@ -8,7 +8,7 @@ lib.themes = {};
  * Get and render the list of regional groups
  */
 lib.getRegions = function () {
-    $.get('/json/groups.regions.json').done(function (data) {
+    $.get('../json/groups.regions.json').done(function (data) {
         // Store namespace
         lib.regions = data;
 
@@ -58,7 +58,7 @@ lib.getRegions = function () {
  * Get and render the list of theme groups
  */
 lib.getThemes = function () {
-    $.get('/json/groups.themes.json').done(function (data) {
+    $.get('../json/groups.themes.json').done(function (data) {
         // Store namespace
         lib.themes = data;
 
