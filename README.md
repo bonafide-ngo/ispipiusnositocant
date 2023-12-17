@@ -9,3 +9,10 @@
 
 ### Hai trovato un errore o vuoi suggerire un miglioramento?
 Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un [Issue](https://github.com/bonafide-ngo/ispipiusnositocant/issues) o effettua una [Pull Request](https://github.com/bonafide-ngo/ispipiusnositocant/pulls). Le richieste verranno verificate dal Consiglio Direttivo dall'Associazione.
+
+### Lavori in corso
+- Puntamento DNS
+- Registrazione email ufficiale info@ispipiusnositocant.it
+- Completamento della lista dei canali social-media
+- Collegamento Widget per canale Facebook
+- Gestione Donazioni online (eg. PayPal, DonoBox)
