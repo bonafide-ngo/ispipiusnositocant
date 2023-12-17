@@ -5,8 +5,7 @@
 
 - Archivio ufficiale del sito web dell'Associazione (ASP) [Is Pipius No Si Tocant](https://ispipiusnositocant.it)
 - Il sito web è pubblicato utilizzando la funzionalità gratuita `GitHub Pages` con indirizzamento DNS.
-- Il codice del sito web è stato inizialmente creato sotta la licenza Open-Source `GNU GPL v3` dall'Organizzazione Non Governativa [BonaFide NGO](https://bonafide.ngo) a titolo completamente gratuito e di volontariato.
-- I soci responsabili dell'Associazione possono gestire i contenuti effettuando pull-request che verrano verificate in collaborazione con il Consiglio Direttivo dall'Associazione.
+- Il codice del sito web è stato inizialmente creato sotta la licenza Open-Source `GNU GPL v3` dall'Organizzazione Non Governativa [BonaFide NGO](https://bonafide.ngo) a titolo completamente gratuito e di volontariato. Testi e immagini iniziali si basano sui contenuti informativi divulgati dall'Associazione attraverso i canali digitali ufficiali (eg. Facebook, WhatsApp, Telegram, Sito Web precedente).
 
-### Hai trovato un errore sul sito?
-Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un [Issue](https://github.com/bonafide-ngo/ispipiusnositocant/issues) in questo progetto GitHub.
+### Hai trovato un errore o vuoi suggerire un miglioramento?
+Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un [Issue](https://github.com/bonafide-ngo/ispipiusnositocant/issues) o effettua una [Pull Request](https://github.com/bonafide-ngo/ispipiusnositocant/pulls). Le richieste verranno verificate dal Consiglio Direttivo dall'Associazione.
