@@ -47,6 +47,7 @@
     },
     "Friuli-Venezia-Giulia": {
         "Friuli-Venezia-Giulia": "https://chat.whatsapp.com/HZPVcl4Zg5pDWF9BARWBcC",
+        "Friuli-Venezia-Giulia-CMAA": "https://chat.whatsapp.com/CYfivkAvcx1FVPJBJCxcjH",
         "Gorizia": "https://chat.whatsapp.com/ElURcdBwM1TFo54cbLvsPz",
         "Pordenone": "https://chat.whatsapp.com/BdHSl6ASCprDuyN6EsHgco",
         "Trieste": "https://chat.whatsapp.com/IJ6FHBWH3xSFzIqgX9ROzj",
@@ -71,6 +72,7 @@
     },
     "Lombardia": {
         "Lombardia": "https://chat.whatsapp.com/JPiKpP9BaW4G8rM9GHZmXb",
+        "Lombardia-CMAA": "https://chat.whatsapp.com/DMCwsk2JSawJ5XTShf9Ojv",
         "Bergamo": "https://chat.whatsapp.com/Cr9mACn9LvW6JXYwXgjkkW",
         "Brescia": "https://chat.whatsapp.com/H2tplQBciVlCyEzX0DIppL",
         "Como": "https://chat.whatsapp.com/EweLBl4mRNw9ZvDsDbY2lL",
@@ -97,11 +99,13 @@
     },
     "Molise": {
         "Molise": "https://chat.whatsapp.com/EswoYpFUtuIH3vVjINqcuE",
+        "Molise-CMAA": "https://chat.whatsapp.com/CXeezGsrVMWHim49R0dlFO",
         "Campobasso": "https://chat.whatsapp.com/EAoSPiNOr1fChBVH39oaFX",
         "Isernia": "https://chat.whatsapp.com/CP70I3xQwiJ1HTDEAj7aAd"
     },
     "Piemonte": {
         "Piemonte": "https://chat.whatsapp.com/H1OsZdLH331K8IVPlzFyl8",
+        "Piemonte-CMAA": "https://chat.whatsapp.com/FlxF6MRhhZz7glNJFksum2",
         "Torino": "https://chat.whatsapp.com/JscLrbPhHmrFAip6qLrzsz",
         "Alessandria": "https://chat.whatsapp.com/LTWK9hFLJAn77Gj2x2F7ei",
         "Asti": "https://chat.whatsapp.com/CeMsjHzUUblEdVC2IOhXAc",
@@ -113,6 +117,7 @@
     },
     "Puglia": {
         "Puglia": "https://chat.whatsapp.com/HBBHfFf1CB9LiwNNmfw4zk",
+        "Puglia-CMAA": "https://chat.whatsapp.com/KGdCw4gY3r545dSTPw0P8u",
         "Foggia": "https://chat.whatsapp.com/LGqCsVztRgbKm6HfgTNb7i",
         "Barletta": "https://chat.whatsapp.com/Hn7EgrZsDhKLeDpvPuwUzB",
         "Adria": "https://chat.whatsapp.com/IKAxGI3gNXXHNUP5nRMNLM",
@@ -154,6 +159,7 @@
     },
     "Toscana": {
         "Toscana": "https://chat.whatsapp.com/FJkjZhLNMvRIVXcrA5szmO",
+        "Toscana-CMAA": "https://chat.whatsapp.com/DTnIWOtDF1nIhOef3yVJ1K",
         "Arezzo": "https://chat.whatsapp.com/KUcVgD7oxaZKHp5qccG1Fq",
         "Grosseto": "https://chat.whatsapp.com/C1qtyWRZMne4TCjjSqTLiq",
         "Livorno": "https://chat.whatsapp.com/HdAF7Am5plJ9tlDZWLQGP9",
@@ -166,6 +172,7 @@
     },
     "Trentino": {
         "Trentino": "https://chat.whatsapp.com/HISGFWarWQcFVjXB3ysIfi",
+        "Trentino-CMAA": "https://chat.whatsapp.com/IQGokINopvBC7eBRSLZzxo",
         "Bolsano": "https://chat.whatsapp.com/LUZz5xTJuLf7Jcz2kwycjE",
         "Trento": "https://chat.whatsapp.com/JpB6MHFzzzHCPEhsuz7vCC4"
     },
