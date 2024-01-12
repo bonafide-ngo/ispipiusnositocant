@@ -112,11 +112,14 @@
                             Ogni donazione, indipendentemente dall'importo, gioca un ruolo fondamentale nella nostra capacità di fare la differenza.
                         </p>
                     </div>
-                    <div class="text-start ms-2 mb-4 mt-2">
-                        <div class="text-end mb-4">
-                            <a href="https://www.paypal.com/donate/?hosted_button_id=3T2G3DM5B7NZ4" target="_self" class="btn btn-lg btn-outline-danger rounded-8 text-nowrap">
+                    <div class="text-start ms-2 mb-4">
+                        <div class="text-center mb-4">
+                            <a href="https://www.paypal.com/donate/?hosted_button_id=3T2G3DM5B7NZ4" target="_self" class="btn btn-lg btn-outline-danger rounded-8 text-nowrap mt-2">
                                 <i class="fas fa-heart fa-lg pe-2"></i> Donazione Online
                             </a>
+                            <button type="button" class="btn btn-lg btn-outline-dark rounded-8 ms-2 text-nowrap mt-2" data-bs-toggle="modal" data-bs-target="#qr-code">
+                                <i class="fas fa-qrcode fa-lg pe-2"></i> Codice QR
+                            </button>
                         </div>
                     </div>
                 </div>
@@ -239,6 +242,27 @@
             </div>
         </div>
     </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="qr-code" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5">
+                        <i class="fas fa-qrcode fa-lg pe-2"></i> Codice QR per Donazione
+                    </h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Chiudi"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <img src="../img/qrcode.png" title="Codice QR  per Donazione" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Chiudi</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </body>
 
 </html>
