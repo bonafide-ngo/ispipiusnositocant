@@ -13,4 +13,3 @@ Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un
 ### Lavori in corso
 - [ ] Completamento della lista dei canali social-media
 - [ ] Collegamento Widget per canale Facebook
-- [ ] Gestione Donazioni online (eg. PayPal, DonoBox)
