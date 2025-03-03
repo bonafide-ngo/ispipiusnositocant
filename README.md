@@ -8,8 +8,7 @@
 - Il codice del sito web è stato inizialmente creato sotta la licenza Open-Source `GNU GPL v3` dall'Organizzazione Non Governativa [BonaFide NGO](https://bonafide.ngo) a titolo completamente gratuito e di volontariato. Testi e immagini iniziali si basano sui contenuti informativi divulgati dall'Associazione attraverso i canali digitali ufficiali (eg. Facebook, WhatsApp, Telegram, Sito Web precedente).
 
 ### Hai trovato un errore o vuoi suggerire un miglioramento?
-Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un [Issue](https://github.com/bonafide-ngo/ispipiusnositocant/issues) o effettua una [Pull Request](https://github.com/bonafide-ngo/ispipiusnositocant/pulls). Le richieste verranno verificate dal Consiglio Direttivo dall'Associazione.
+Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un [Issue](https://github.com/bonafide-ngo/ispipiusnositocant/issues). Le richieste verranno verificate dal Consiglio Direttivo dall'Associazione.
 
 ### Lavori in corso
 - [ ] Completamento della lista dei canali social-media
-- [ ] Collegamento Widget per canale Facebook
