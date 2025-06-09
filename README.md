@@ -10,5 +10,9 @@
 ### Hai trovato un errore o vuoi suggerire un miglioramento?
 Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un [Issue](https://github.com/bonafide-ngo/ispipiusnositocant/issues). Le richieste verranno verificate dal Consiglio Direttivo dall'Associazione.
 
+### Gestione contenuti
+- 09/06/2025 - [paorighi](https://github.com/paorighi) autorizzato dal Presidente dell'Associazione.
+
 ### Lavori in corso
-- [ ] Completamento della lista dei canali social-media
+- [ ] Completamento e manutenzione della lista dei canali social-media
+- [ ] Aggiornamento dei dati dell'Associazione
