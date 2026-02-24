@@ -11,8 +11,12 @@
 Scrivi a [info@ispipiusnositocant.it](info@ispipiusnositocant.it) oppure apri un [Issue](https://github.com/bonafide-ngo/ispipiusnositocant/issues). Le richieste verranno verificate dal Consiglio Direttivo dall'Associazione.
 
 ### Gestione contenuti
+I contenuti sono mantenuti da [BonaFide NGO](https://bonafide.ngo) a titolo volontario e gratuitamente, con espressa esclusione di ogni responsabilità, diretta o indiretta, in relazione all’accuratezza, completezza, aggiornamento o utilizzo delle informazioni pubblicate.
+
+Altri utenti autorizzati:
 - 09/06/2025 - [paorighi](https://github.com/paorighi) autorizzato dal Presidente dell'Associazione.
 
 ### Lavori in corso
 - [ ] Completamento e manutenzione della lista dei canali social-media
 - [ ] Aggiornamento dei dati dell'Associazione
+- [ ] Aggiornamento del modulo di iscrizione all'Associazione
